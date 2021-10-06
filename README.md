@@ -21,14 +21,10 @@ The following subprojects are owned by the Working Group:
   * Repositories:
     * https://github.com/RobotWebTools/community
     * https://github.com/RobotWebTools/robotwebtools.github.io
-    * https://github.com/RobotWebTools/starter-template
-    * https://github.com/RobotWebTools/rwt_dockers
-    * https://github.com/RobotWebTools/robot_web_tools
 * `roslibjs`
   * Description: ROS 1 Javascript language client - for use in the browser
   * Repositories:
     * https://github.com/RobotWebTools/roslibjs
-    * https://github.com/RobotWebTools/roslibjs_integration_tests
 * `rclnodejs`
   * Description: ROS 2 native NodeJS client
   * Repositories
@@ -44,15 +40,12 @@ The following subprojects are owned by the Working Group:
   * Repositories:
     * https://github.com/RobotWebTools/ros3djs
     * https://github.com/RobotWebTools/ros2djs
-    * https://github.com/RobotWebTools/interactive_marker_proxy
 * Specific Data Streaming
   * Description: Libraries for streaming ROS data effectively
   * Repositories:
     * https://github.com/RobotWebTools/web_video_server
     * https://github.com/RobotWebTools/tf2_web_republisher
     * https://github.com/RobotWebTools/webrtc_ros
-    * https://github.com/RobotWebTools/ros_web_video
-    * https://github.com/RobotWebTools/mjpeg_server
     * https://github.com/RobotWebTools/depthcloud_encoder
 
 ### Standards for subprojects
